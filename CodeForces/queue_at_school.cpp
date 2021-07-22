@@ -27,5 +27,5 @@ void solve() {
 
 int main(int argc, const char** argv) {
 	solve();
-    return 0;
+	return 0;
 }
